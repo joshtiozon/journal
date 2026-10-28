@@ -23,8 +23,8 @@ A weekly journal documenting my Work Immersion journey — Weeks 1–3, 5 days e
 | Day 1 | Peer Support | I helped my peers who were having trouble with their portfolio coding. |
 | Day 2 | Natural AI Responses | I was able to make the AI in my portfolio sound natural without relying on Basic mode. |
 | Day 3 | JavaScript Basics | Learning the basics of JavaScript. |
-| Day 4 | JavaScript Learning – Day 1 | Finished learning Day 1 of JavaScript. |
-| Day 5 |  |  |
+| Day 4 | JavaScript Learning – Day 1 | Understands how Arrays, Objects works on JS. |
+| Day 5 | Javascript Learning - Day 2 | Same as day 1, was able to learn and understand the fundamentals of Arrays, Objects, Loops, and Functions. |
 
 ---
 
@@ -32,9 +32,9 @@ A weekly journal documenting my Work Immersion journey — Weeks 1–3, 5 days e
 
 | Day | Focus | Reflections |
 |-----|-------|-------------|
-| Day 1 |  |  |
-| Day 2 |  |  |
-| Day 3 |  |  |
+| Day 1 | JavaScript learning - Day 3 | On this day, we learned on how to make NameTag, Like Counter, and how dark theme works in websites.  |
+| Day 2 | JavaScript learning - Day 4 | Made a live greeting website as you input your name in it, it will appear on the website. |
+| Day 3 | JavaScript learning - Day 5 | Was able to build a Mini-project: Jeepney Fare Calculator with the help of AI to understand the foundation. | 
 | Day 4 |  |  |
 | Day 5 |  |  |
 
